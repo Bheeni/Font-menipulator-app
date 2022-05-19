@@ -1,0 +1,37 @@
+.heading{
+    width: 100%;
+    font-family: monospace;
+    text-shadow: 5px 5px 5px rgb(42, 42, 42);
+    box-shadow: 5px 5px 5px gray;
+    margin-top: 0;
+    font-size: 25px;
+}
+
+.note{
+    font-family: monospace;
+    text-shadow: 5px 5px 5px rgb(42, 42, 42);
+    font-size:15px ;
+}
+
+#copy_right_footer{
+    font-family: monospace;
+    text-shadow: 5px 5px 5px rgb(42, 42, 42);
+    box-shadow:5px 5px 5px gray;
+    color: ghostwhite;
+    position: fixed;
+    bottom: 0px;
+    line-height:2;
+    background-color: gray;
+    width: 100%;
+}
+
+canvas{
+    border-width: 10px;
+    border-style: solid white;
+    background-color: white;
+}
+
+body{
+    background-image: "download (2).jfif";
+    background-size:cover;
+}
